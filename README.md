@@ -1,12 +1,6 @@
-# DITPD_PONTREN_sisfo_geografis
+## ANALISIS PERSEBARAN ODP INDIHOME DI KABUPATEN NGANJUK GUNA MENENTUKAN PELUANG PENYEBARAN JARINGAN INTERNET
 
-## Sistem Informasi Geografis Persebaran Pondok Pesantren Se-kota Semarang
-
-### Front End :
-<li>View Data (Kombinasi, Modern)</li>
-<li>Map View (leatlet)</li>
-
-### Back End :
-<li>Data Ponpes (Edit, Delete, View)</li>
-<li>Data Ponpes (add ==> Google Map)</li>
-<li>Map View (leaflet)</li>
+### KELOMPOK 3
+   1. Desando Anugrah Ramadhan		      (18051204054)
+   2. Dimas Shafir Alfirdausi W.P.P.	 	(18051204062)
+   3. Farry Cendekiawan Budi W.		      (18051204070)
